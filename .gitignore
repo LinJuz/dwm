@@ -4,3 +4,4 @@ drw.o
 config.def.h.orig
 dwm.c.orig
 util.o
+config.h
